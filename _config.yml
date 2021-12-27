@@ -1,5 +1,6 @@
 title: 'JTops'
 description: "A jekyll theme inspired by linux consoles for hackers, developers and script kiddies."
+baseurl: "/"
 
 header_pages:
   - index.md
