@@ -1,2 +1,2 @@
-# jekyll-theme-console demo
-This is a demo site for the jekyll-theme-console theme.
+# JTops Personal Site
+Welcome to my personal site. Come learn more :)
